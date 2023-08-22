@@ -1,4 +1,4 @@
-package com.java.atm;
+package com.java.dto;
 
 public class Account {
 	

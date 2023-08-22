@@ -1,4 +1,6 @@
-package com.java.atm;
+package com.java.service;
+
+import com.java.dto.Account;
 
 public class ATMService {
 	
